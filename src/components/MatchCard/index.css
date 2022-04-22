@@ -1,0 +1,19 @@
+.each-matchces-container {
+    background-color: #0f172a;
+    margin: 26px;
+    padding: 10px;
+    width: 250px;
+    min-height: 430px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.won {
+    color: #18ed66;
+}
+.lost {
+    color: #e31a1a;
+} 
